@@ -1,5 +1,6 @@
 import json
 import random
+from collections import Counter
 
 # curl --data "text=80215" https://eaqsml6ex9.execute-api.us-east-1.amazonaws.com/weather/weather
 
